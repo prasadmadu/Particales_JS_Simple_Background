@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#particles-js{
+  width: 100vw;
+  height: 100vh;
+  background: rgb(45, 41, 49);
+}
+span{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+}
